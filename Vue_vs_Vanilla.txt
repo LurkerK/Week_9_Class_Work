@@ -1,0 +1,8 @@
+Vue offers a notable level of synchronicity that vanilla JavaScript often lacks, particularly at the same capacity. 
+When comparing the two, it's apparent that vanilla JavaScript requires more back-and-forth between the actual JavaScript data and its representation in the HTML. 
+In contrast, Vue would seem to operate rather seamlessly in that regard. 
+
+"As for my preference, I find myself leaning towards Vue for several reasons.
+It seems pretty exceptionally developer-friendly, in that it offers a streamlined experience where much of the underlying logic can be handled by Vue itself.
+I particularly appreciate Vue's incorporation of reusable components, which greatly simplifies managing a bunch of code relatively new to me. 
+Vanilla javascript can often bring a feeling of backtracking at times. Having Vue cover for me in aspects that might have eluded me in the past is a big help.
